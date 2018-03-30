@@ -1,0 +1,28 @@
+---
+
+mysql-connect-failed: MySQL connect failed.
+internal-server-error: Internal Server Error.
+handler-not-found: Handler not found.
+not-found: Not found.
+server-error: Server error.
+
+data-duplicated: Data duplicated.
+data-invalid: Data invalid.
+data-notfound: Data not found.
+data-fail: Data fail.
+data-find-fail: Data find fail.
+data-create-fail: Data create failed.
+data-update-fail: Data update failed.
+data-delete-fail: Data delete failed.
+data-rejected: Data rejected.
+data-not-allowed: Data not allow.
+data-bulk-fail: Data bulk failed.
+
+pdo-duplicate-entry: PDO duplicate entry.
+queue-put-fail: Queue put failed.
+
+file-upload-error-min-size: File upload required min size.
+file-upload-error-max-size: File upload reached max size.
+file-upload-error-allowed-format: File upload format not allow.
+file-upload-error: File upload error.
+file-delete-error: File delete error.
