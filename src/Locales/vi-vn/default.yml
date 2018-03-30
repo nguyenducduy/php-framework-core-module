@@ -1,3 +1,28 @@
 ---
 
 mysql-connect-failed: Không thể kết nối đến cơ sở dữ liệu.
+internal-server-error: Máy chủ lỗi.
+handler-not-found: Handler không khớp.
+not-found: Không tìm thấy trang.
+server-error: Máy chủ lỗi.
+
+data-duplicated: Dữ liệu trùng.
+data-invalid: Dữ liệu không có giá trị.
+data-notfound: Dữ liệu không tìm thấy.
+data-fail: Dữ liệu lỗi.
+data-find-fail: Không có dữ liệu.
+data-create-fail: Tạo dữ liệu thất bại.
+data-update-fail: Cập nhật dữ liệu thất bai.
+data-delete-fail: Xoá dữ liệu thất bại.
+data-rejected: Dữ liệu bị từ chối.
+data-not-allowed: Dữ liệu không được chấp nhận.
+data-bulk-fail: Thao tác nhiều dữ liệu thất bại.
+
+pdo-duplicate-entry: Lỗi truy xuất PDO.
+queue-put-fail: Không thể thêm vào Scheduled.
+
+file-upload-error-min-size: Tập tin tải lên có size quá nhỏ.
+file-upload-error-max-size: Tập tin tải lên có size quá lớn.
+file-upload-error-allowed-format: Định dạng tập tin không được chấp nhận.
+file-upload-error: Tập tin tải lên lỗi.
+file-delete-error: Xoá tập tin lỗi.
